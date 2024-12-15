@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    string[,] listName = new string[2, 6]
+    {
+        {"Learn Word", "Learn new word from many topic","#1", "Review", "Review words you have learn", "#"},
+        {"Memory", "Complete some practice to learn new words or review words", "#","Answer Question","Choose the right answers for questions", "#"}
+    };
+
+}
+@section Styles {
+<link rel="stylesheet" href="~/css/featurepage.css" />
+}
+<div id="containner-div">
+    <div class="all-feature-box">
+        @for (int j = 0; j < 2; j++)
+        {
+            <div class="feature-row">
+                @for (int i = 0; i < 6; i += 3)
+                {
+                    <div class="feature-item">
+                        <div class="feature-name">
+                            @listName[j, i]
+                        </div>
+                        <div class="feature-desc">
+                            @listName[j, i + 1]
+                        </div>
+                        <a href="@listName[j, i + 2]">Chi tiết</a>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>

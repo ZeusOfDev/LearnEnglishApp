@@ -1,0 +1,120 @@
+﻿
+.quiz-container {
+    background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%);
+    backdrop-filter: blur(10px);
+    max-width: 800px;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.question-number {
+    background: linear-gradient(45deg, #FF512F, #DD2476);
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.question-text {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.option-btn {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    text-align: left;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+    .option-btn:hover {
+        background: rgba(255, 255, 255, 0.2);
+        transform: translateY(-2px);
+    }
+
+    .option-btn:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
+    }
+
+.option-label {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 500;
+}
+
+.option-btn.correct {
+    background: linear-gradient(45deg, #28a745, #20c997);
+    border-color: #28a745;
+    animation: pulse 0.5s;
+}
+
+.option-btn.wrong {
+    background: linear-gradient(45deg, #dc3545, #ff4d4d);
+    border-color: #dc3545;
+    animation: shake 0.5s;
+}
+
+.next-btn {
+    background: linear-gradient(45deg, #FF512F, #DD2476);
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+    .next-btn:hover:not([disabled]) {
+        transform: translateX(5px);
+        background: linear-gradient(45deg, #DD2476, #FF512F);
+    }
+
+    .next-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-10px);
+    }
+
+    75% {
+        transform: translateX(10px);
+    }
+}
+
+@media (max-width: 768px) {
+    .quiz-container {
+        margin: 1rem;
+    }
+
+    .question-text {
+        font-size: 1.2rem;
+    }
+
+    .option-btn {
+        padding: 0.8rem;
+    }
+}
