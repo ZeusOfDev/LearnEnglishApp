@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LearnWordApp
 build_property.RootNamespace = LearnWordApp
-build_property.ProjectDir = C:\Users\Huy Trinh\Downloads\OOP\LearnWordApp\
+build_property.ProjectDir = C:\Users\Huy Trinh\Downloads\OOP\LearnEnglishApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Huy Trinh\Downloads\OOP\LearnWordApp
+build_property.MSBuildProjectDirectory = C:\Users\Huy Trinh\Downloads\OOP\LearnEnglishApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/Home/Index.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/Home/Privacy.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/LearningFeature/Index.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/LearningFeature/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdGZWF0dXJlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/LearningFeature/ListTopic.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/LearningFeature/ListTopic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5pbmdGZWF0dXJlXExpc3RUb3BpYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/Shared/Error.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/WordExcercise/QuizExcercise.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/WordExcercise/QuizExcercise.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29yZEV4Y2VyY2lzZVxRdWl6RXhjZXJjaXNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/_ViewImports.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/_ViewStart.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Huy Trinh/Downloads/OOP/LearnWordApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Huy Trinh/Downloads/OOP/LearnEnglishApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8hksjww9l0

@@ -35,7 +35,6 @@ namespace LearnWordApp.Controllers
         {
             var cookieOptions = new CookieOptions
             {
-                Expires = DateTime.Now.AddDays(1),
                 HttpOnly = true,
                 Secure = true
             };

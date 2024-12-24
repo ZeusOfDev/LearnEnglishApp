@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AS1D/9jkhDmKvTGf4A3AOzUCabLjIak6NHBArNRj1tXGBqcT2q1Y4YsspJ0x10duTFcJKg9MnaA3McnObuN8fg==",
+  "dgSpecHash": "yopmjpOFNbPASdGYj/lnZjqc663kM5+Fllg43tD3YN8Chy29ulecAQFr5VXqSoeftTQS6yPow2PqTRgBpX7rAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
+  "projectFilePath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnEnglishApp\\LearnWordApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huy Trinh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Huy Trinh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

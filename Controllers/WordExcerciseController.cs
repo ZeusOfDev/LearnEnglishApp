@@ -47,13 +47,18 @@ namespace LearnWordApp.Controllers
                 {
                     return Content("lsid or isid null");
                 }
-                var isidCookie = Request.Cookies["isid"];
-                int isid = Convert.ToInt32(isidCookie); 
+                int isid = Convert.ToInt32(HttpContext.Request.Cookies["isid"]); 
                 ++isid;
-
                 string[] lsid = HttpContext.Request.Cookies["lsid"].Split(',');
                 //update cookie
-                
+                var cookieOptions = new CookieOptions
+                {
+                    HttpOnly = true,
+                    Secure = true
+                };
+                HttpContext.Response.Cookies.Append("lsid", HttpContext.Request.Cookies["lsid"], cookieOptions);
+                HttpContext.Response.Cookies.Append("isid", isid.ToString());
+
 
                 if (isid >= lsid.Length)
                 {

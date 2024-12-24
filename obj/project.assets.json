@@ -1727,11 +1727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
+      "projectUniqueName": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnEnglishApp\\LearnWordApp.csproj",
       "projectName": "LearnWordApp",
-      "projectPath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
+      "projectPath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnEnglishApp\\LearnWordApp.csproj",
       "packagesPath": "C:\\Users\\Huy Trinh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\obj\\",
+      "outputPath": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnEnglishApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huy Trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,7 +4,6 @@ using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.DependencyInjection;
 using System.Collections.Generic;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

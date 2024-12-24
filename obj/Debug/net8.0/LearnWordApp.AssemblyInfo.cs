@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnWordApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+411cdb1cd9140c24bc92febb2e7fb37f024aacb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cdead9caf254b790ba9ba5f6be8694c9a40b9da")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnWordApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnWordApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
