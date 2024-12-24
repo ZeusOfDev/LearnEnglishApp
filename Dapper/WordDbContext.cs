@@ -2,32 +2,39 @@
 using Microsoft.IdentityModel.Tokens;
 using LearnWordApp.Models;
 using Dapper;
+using System.Collections;
 namespace LearnWordApp.Repository
 {
     public class WordDbContext
     {
-        private readonly SqlConnection connection;
+        public string connectionString;
         public WordDbContext(string connection)
         {
-            this.connection = new SqlConnection(connection);
+            this.connectionString = connection;
         }
-        public List<Word> GetNumberWordRandom(int number)
+        public IEnumerable<Word> GetAllWordInSet<T>(T setid)
         {
-            if (number > 20)
+            IEnumerable<Word> values;
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                throw new ArgumentException();
+                connection.Open();
+                string sql = $"select * from Word where SetID = {setid}";
+                values = connection.Query<Word>(sql);
+                connection.Close();
             }
-            if (this.connection == null)
+             return values;
+        }
+        public List<WordSet> GetAllWordSet()
+        {
+            IEnumerable<WordSet> wordSets;
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                throw new Exception();
+                connection.Open();
+                string sql = "select * from WordSet";
+                wordSets = connection.Query<WordSet>(sql);
+                connection.Close();
             }
-            string sql = $@"SELECT TOP(@Number) *
-                            FROM (
-                                SELECT TOP(20) *
-                                FROM Words
-                            ) as table1
-                            ORDER BY NEWID();";
-            return connection.Query<Word>(sql, new { Number = number }).ToList();
+            return wordSets.ToList();
         }
     }
 }

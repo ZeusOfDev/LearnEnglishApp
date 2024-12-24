@@ -7,28 +7,76 @@
       "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:controllers\\learningfeaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\learnwordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:learnwordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\controllers\\wordexcercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:controllers\\wordexcercisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\learningfeature\\answerquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\learningfeature\\answerquestion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\wordexcercise\\quizexcercise.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\wordexcercise\\quizexcercise.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\learningfeature\\listtopic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\learningfeature\\listtopic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\wordextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\wordextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\quizmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\learningfeature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\learningfeature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\learningfeature\\questiontype1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\learningfeature\\questiontype1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\dapper\\worddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:dapper\\worddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\wordset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\wordset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\wwwroot\\css\\pratice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:wwwroot\\css\\pratice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\learnwordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:learnwordapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,44 +87,8 @@
       "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\wordset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\wordset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\wwwroot\\css\\pratice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:wwwroot\\css\\pratice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\installer\\excercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:installer\\excercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\wwwroot\\css\\featurepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:wwwroot\\css\\featurepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\dapper\\worddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|solutionrelative:dapper\\worddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96D3DE29-6B59-4DA7-B911-4FD876E62649}|LearnWordApp.csproj|c:\\users\\huy trinh\\downloads\\oop\\learnwordapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -98,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,27 +122,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-25T10:35:06.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\LearningFeature\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Index.cshtml",
-              "RelativeToolTip": "Views\\LearningFeature\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T14:33:46.937Z"
+              "DocumentIndex": 5,
+              "Title": "WordExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordExtension.cs",
+              "RelativeDocumentMoniker": "Models\\WordExtension.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordExtension.cs",
+              "RelativeToolTip": "Models\\WordExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:25:10.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,182 +141,53 @@
               "RelativeDocumentMoniker": "Controllers\\LearningFeatureController.cs",
               "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Controllers\\LearningFeatureController.cs",
               "RelativeToolTip": "Controllers\\LearningFeatureController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAIwCwAAAAJAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T14:32:03.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AnswerQuestion.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\AnswerQuestion.cshtml",
-              "RelativeDocumentMoniker": "Views\\LearningFeature\\AnswerQuestion.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\AnswerQuestion.cshtml",
-              "RelativeToolTip": "Views\\LearningFeature\\AnswerQuestion.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T04:43:51.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAiwCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T14:26:49.671Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAmAAAA",
+              "Title": "QuizExcercise.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\WordExcercise\\QuizExcercise.cshtml",
+              "RelativeDocumentMoniker": "Views\\WordExcercise\\QuizExcercise.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\WordExcercise\\QuizExcercise.cshtml",
+              "RelativeToolTip": "Views\\WordExcercise\\QuizExcercise.cshtml",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAADQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T14:37:27.924Z"
+              "WhenOpened": "2024-11-03T14:33:35.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuestionType1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\QuestionType1.cshtml",
-              "RelativeDocumentMoniker": "Views\\LearningFeature\\QuestionType1.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\QuestionType1.cshtml",
-              "RelativeToolTip": "Views\\LearningFeature\\QuestionType1.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ListTopic.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\ListTopic.cshtml",
+              "RelativeDocumentMoniker": "Views\\LearningFeature\\ListTopic.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\ListTopic.cshtml",
+              "RelativeToolTip": "Views\\LearningFeature\\ListTopic.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAFAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T14:33:35.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "pratice.css",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\wwwroot\\css\\pratice.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\pratice.css",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\wwwroot\\css\\pratice.css",
-              "RelativeToolTip": "wwwroot\\css\\pratice.css",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-31T05:07:50.873Z"
+              "WhenOpened": "2024-11-11T04:43:51.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LearnWordApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
-              "RelativeDocumentMoniker": "LearnWordApp.csproj",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
-              "RelativeToolTip": "LearnWordApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-03T15:24:14.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "WordExcerciseController.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Controllers\\WordExcerciseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WordExcerciseController.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Controllers\\WordExcerciseController.cs",
+              "RelativeToolTip": "Controllers\\WordExcerciseController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwC4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T13:29:11.872Z"
+              "WhenOpened": "2024-12-15T15:21:29.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Excercise.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Installer\\Excercise.cs",
-              "RelativeDocumentMoniker": "Installer\\Excercise.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Installer\\Excercise.cs",
-              "RelativeToolTip": "Installer\\Excercise.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:25:22.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T12:04:53.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T12:04:54.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WordSet.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordSet.cs",
-              "RelativeDocumentMoniker": "Models\\WordSet.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordSet.cs",
-              "RelativeToolTip": "Models\\WordSet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T10:27:10.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WordDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Dapper\\WordDbContext.cs",
-              "RelativeDocumentMoniker": "Dapper\\WordDbContext.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Dapper\\WordDbContext.cs",
-              "RelativeToolTip": "Dapper\\WordDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T05:36:25.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\Word.cs",
-              "RelativeDocumentMoniker": "Models\\Word.cs",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\Word.cs",
-              "RelativeToolTip": "Models\\Word.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:30:18.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Practice0.cshtml",
-              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Practice0.cshtml",
-              "RelativeDocumentMoniker": "Views\\LearningFeature\\Practice0.cshtml",
-              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Practice0.cshtml",
-              "RelativeToolTip": "Views\\LearningFeature\\Practice0.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T11:15:28.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -323,7 +195,116 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T11:09:33.766Z"
+              "WhenOpened": "2024-10-23T11:09:33.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\QuizModel.cs",
+              "RelativeDocumentMoniker": "Models\\QuizModel.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\QuizModel.cs",
+              "RelativeToolTip": "Models\\QuizModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:34:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "Models\\Word.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\Word.cs",
+              "RelativeToolTip": "Models\\Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:30:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:26:49.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:29:11.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\LearningFeature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Index.cshtml",
+              "RelativeToolTip": "Views\\LearningFeature\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:33:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T00:59:42.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Dapper\\WordDbContext.cs",
+              "RelativeDocumentMoniker": "Dapper\\WordDbContext.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Dapper\\WordDbContext.cs",
+              "RelativeToolTip": "Dapper\\WordDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:36:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T10:35:06.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WordSet.cs",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordSet.cs",
+              "RelativeDocumentMoniker": "Models\\WordSet.cs",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Models\\WordSet.cs",
+              "RelativeToolTip": "Models\\WordSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:27:10.695Z"
             },
             {
               "$type": "Document",
@@ -340,6 +321,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "pratice.css",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\wwwroot\\css\\pratice.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\pratice.css",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\wwwroot\\css\\pratice.css",
+              "RelativeToolTip": "wwwroot\\css\\pratice.css",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-31T05:07:50.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:37:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LearnWordApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
+              "RelativeDocumentMoniker": "LearnWordApp.csproj",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\LearnWordApp.csproj",
+              "RelativeToolTip": "LearnWordApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T15:24:14.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T12:04:53.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T12:04:54.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Practice0.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Practice0.cshtml",
+              "RelativeDocumentMoniker": "Views\\LearningFeature\\Practice0.cshtml",
+              "ToolTip": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\LearningFeature\\Practice0.cshtml",
+              "RelativeToolTip": "Views\\LearningFeature\\Practice0.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:15:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "featurepage.css",
               "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\wwwroot\\css\\featurepage.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\featurepage.css",
@@ -351,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -363,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Huy Trinh\\Downloads\\OOP\\LearnWordApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",

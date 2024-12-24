@@ -1,0 +1,107 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model QuizModel
+@{
+}
+
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/pratice.css" />
+}
+
+@section Scripts {
+    <script>
+        async function checkAnswer(button, isCorrect) {
+            const buttons = document.querySelectorAll('.option-btn');
+            buttons.forEach(btn => {
+                btn.disabled = true;
+            });
+            console.log("choose:" + isCorrect);
+            console.log("answer:" + @Model.ans)
+            if (isCorrect == @Model.ans) {
+                button.classList.add('correct');
+                document.querySelector('.next-btn').disabled = false;
+            } else {
+                button.classList.add('wrong');
+                await setTimeout(() => {
+                    buttons.forEach(butt => {
+                        if (butt.id == @Model.ans.ToString()) {
+                            butt.classList.add('correct');
+                            document.querySelector('.next-btn').disabled = false;
+                        }
+                    });
+                }, 300);
+            }
+        }
+        function nextQuestion(button) {
+            const form = document.createElement("form");
+            form.id = "acceptForm";
+            form.method = "POST"; // Set form method to POST
+
+            form.action = '@Url.Action("QuizExcercise", "WordExcercise")';
+            form.style.display = "none";
+            // Create input element
+            var input = document.createElement("input");
+            input.type = "text"; // Set input type to text
+            input.name = "accept"; // Give the input a name
+            input.value = "1";
+
+
+            form.appendChild(input);
+
+            document.body.appendChild(form);
+
+            form.submit();
+        }
+    </script>
+}
+
+@functions {
+    string GetTypeAndVieWord(string word)
+    {
+        if (string.IsNullOrEmpty(word))
+            return "error with tv words";
+        var temp = word.Split('(');
+        string s = "(" + temp[1];
+        return s;
+    }
+    string GetEngWord(string word)
+    {
+        if (string.IsNullOrEmpty(word))
+            return "error with e words";
+        var temp = word.Split('(');
+        string s = temp[0];
+        return s;
+    }
+}
+@if (@Model != null) {
+<div class="container-practice d-flex justify-content-center">
+    <div class="quiz-container p-4 rounded-4 shadow-lg">
+        <div class="question-section mb-4">
+            <span class="badge rounded-pill question-number mb-3">choose the correct answer: </span>
+                <h2 class="question-text">
+                    ______ @GetTypeAndVieWord(Model.words[Model.ans])
+            </h2>
+        </div>
+        <div class="options-container">
+            <div class="row g-3">
+                @for (int i = 0; i < 4; i++) {
+                    <div class="col-12 col-md-6">
+                        <button class="option-btn w-100 p-3 rounded-3" id="@i" onclick="checkAnswer(this, @i)">
+                            <span class="option-label">@i</span>
+                                @GetEngWord(Model.words[i])
+                        </button>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="mt-4 d-flex justify-content-between align-items-center">
+                <button class="btn next-btn" disabled onclick="nextQuestion(this)">Next Question</button>
+        </div>
+    </div>
+    </div>
+} else
+{
+    <h1>Model null</h1>
+}

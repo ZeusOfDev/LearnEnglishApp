@@ -1,8 +1,10 @@
 ﻿using LearnWordApp.Models;
 using LearnWordApp.Repository;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections;
 using System.Linq;
-using LearnWordApp.Installer;
+using System.Reflection;
+using System.Text.Json;
 namespace LearnWordApp.Controllers
 {
     public class LearningFeatureController : Controller
@@ -20,29 +22,37 @@ namespace LearnWordApp.Controllers
         }
         
         [HttpGet]
-        [Route("/practice")]
-        public IActionResult AnswerQuestion()
+        [Route("/practicebytopic")]
+        public IActionResult ListTopic()
         {
-            return View();
+            //return Content(dbcontext.GetAllWordSet().Count.ToString());
+            
+            return View(dbcontext.GetAllWordSet());
         }
         [HttpPost]
-        [Route("/practice")]
-        public IActionResult AnswerQuestion([FromBody] string[] ListIDs)
+        [Route("/practicebytopic")]
+        public IActionResult ListTopic(string listInput)
         {
-            /*
-            int excCount = Excercise.excerciseTypes.Count();
-            if (excCount == 0) 
-                return NotFound();
-            int ranNum = new Random().Next(0, excCount);
-            var obj = Activator.CreateInstance(Excercise.excerciseTypes[ranNum]);
-            if (obj == null)
-                return NotFound();
-            return RedirectToAction();*/
-            string a = "hello";
-            foreach (var id in ListIDs)
-                a = a + id;
-            return Content(a);
+            var cookieOptions = new CookieOptions
+            {
+                Expires = DateTime.Now.AddDays(1),
+                HttpOnly = true,
+                Secure = true
+            };
+            string[] ListIDs = listInput.Split('-');
+            HttpContext.Response.Cookies.Append("lsid", string.Join(',', ListIDs), cookieOptions);
+            HttpContext.Response.Cookies.Append("isid", "0");
+            IEnumerable<Word> ws;
+            if (ListIDs.Length == 0)
+                return Content("something went wrong");
+            else
+            {
+                ws = dbcontext.GetAllWordInSet<string>(ListIDs[0]);
+                TempData["words"] = ws.ConvertIEnumarableToString();
+                if (TempData.Peek("words") != null)
+                    TempData["currentLen"] = ws.Count();
+            }
+            return RedirectToAction("QuizExcercise", "WordExcercise");
         }
-
     }
 }
